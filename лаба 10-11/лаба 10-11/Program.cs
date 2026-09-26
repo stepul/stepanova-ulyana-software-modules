@@ -23,7 +23,8 @@ double rast2 = y1 - y2;
 double distan = Math.Sqrt(rast1 * rast1 + rast2 * rast2);
 Console.WriteLine($"Дистанция: {distan}");*/
 
-/*string input1 = Console.ReadLine();
+/*Console.WriteLine("Введите x1: ");
+string input1 = Console.ReadLine();
 double x1 = Convert.ToDouble(input1);
 Console.WriteLine("Введите w1:");
 string input2 = Console.ReadLine();
