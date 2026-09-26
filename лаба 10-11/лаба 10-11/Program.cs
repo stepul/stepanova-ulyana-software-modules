@@ -20,7 +20,8 @@ x2/= dlina2;
 y2/= dlina2;
 double rast1 = x1 - x2;
 double rast2 = y1 - y2;
-double distan = Math.Sqrt(rast1 * rast1 + rast2 * rast2);*/
+double distan = Math.Sqrt(rast1 * rast1 + rast2 * rast2);
+Console.WriteLine($"Дистанция: {distan}");*/
 
 /*string input1 = Console.ReadLine();
 double x1 = Convert.ToDouble(input1);
