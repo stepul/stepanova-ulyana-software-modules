@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "лаба 12-13": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
