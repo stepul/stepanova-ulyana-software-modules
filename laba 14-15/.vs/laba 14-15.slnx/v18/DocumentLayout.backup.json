@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\413\\Documents\\GitHub\\stepanova-ulyana-software-modules\\laba 14-15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9DF022-44DA-4E6C-A621-D8A56C17F1BB}|laba 14-15\\laba 14-15.csproj|c:\\users\\413\\documents\\github\\stepanova-ulyana-software-modules\\laba 14-15\\laba 14-15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9DF022-44DA-4E6C-A621-D8A56C17F1BB}|laba 14-15\\laba 14-15.csproj|solutionrelative:laba 14-15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\413\\Documents\\GitHub\\stepanova-ulyana-software-modules\\laba 14-15\\laba 14-15\\Program.cs",
+              "RelativeDocumentMoniker": "laba 14-15\\Program.cs",
+              "ToolTip": "C:\\Users\\413\\Documents\\GitHub\\stepanova-ulyana-software-modules\\laba 14-15\\laba 14-15\\Program.cs*",
+              "RelativeToolTip": "laba 14-15\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:51:44.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
