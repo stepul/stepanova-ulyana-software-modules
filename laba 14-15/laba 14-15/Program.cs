@@ -122,3 +122,30 @@ class Program
         } while (a >= b || !valid1 || !valid2); 
     }
 }*/
+
+/*using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Привет!");
+
+        char repeatChoice;
+        int repeatCount = 0;
+
+        do
+        {
+            Console.WriteLine("ЙОУ привеп!!");
+            repeatCount++;
+            Console.Write("Хочешь повторить? ");
+            string input = Console.ReadLine()?.Trim().ToLower();
+            repeatChoice = input.Length > 0 ? input[0] : 'n';
+        }
+        while (repeatChoice == 'д' || repeatChoice == 'y');
+
+        Console.WriteLine("Программа завершена.");
+        Console.WriteLine($"Ты повторил {repeatCount - 1} раз(а).");
+    }
+}
+*/
