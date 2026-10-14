@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AA8AxY3NnZY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tetka\\Documents\\Git\\stepanova-ulyana-software-modules\\laba 16-17\\laba 16-17\\laba 16-17.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tetka\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

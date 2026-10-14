@@ -1,0 +1,16 @@
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\bin\Debug\net10.0\lab14-15stepanova.exe
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\bin\Debug\net10.0\lab14-15stepanova.deps.json
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\bin\Debug\net10.0\lab14-15stepanova.runtimeconfig.json
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\bin\Debug\net10.0\lab14-15stepanova.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\bin\Debug\net10.0\lab14-15stepanova.pdb
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\lab14-15stepanova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\lab14-15stepanova.AssemblyInfoInputs.cache
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\lab14-15stepanova.AssemblyInfo.cs
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\lab14-15stepanova.csproj.CoreCompileInputs.cache
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\lab14-15stepanova.sourcelink.json
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\lab14-15stepanova.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\refint\lab14-15stepanova.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\lab14-15stepanova.pdb
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\lab14-15stepanova.genruntimeconfig.cache
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\ref\lab14-15stepanova.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab14-15stepanova\lab14-15stepanova\obj\Debug\net10.0\lab14-15.B7224A5B.Up2Date
