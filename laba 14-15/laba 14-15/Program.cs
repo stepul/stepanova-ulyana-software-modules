@@ -1,6 +1,5 @@
 ﻿/* Общее задание 1 
 using System;
-
 class Program
 {
     static void Main()
@@ -29,7 +28,6 @@ class Program
 
 /* Общее задание 2
 using System;
-
 class Program
 {
     static void Main()
@@ -93,7 +91,6 @@ class Program
 
 /*Задание B Вариант 16
 using System;
-
 class Program
 {
     static void Main()
@@ -123,29 +120,40 @@ class Program
     }
 }*/
 
-/*using System;
-
+/*Общее задание 3 using System;
 class Program
 {
     static void Main()
     {
         Console.WriteLine("Привет!");
 
-        char repeatChoice;
-        int repeatCount = 0;
+        int choice;
+        int count = 0;
+        bool valid;
 
         do
         {
-            Console.WriteLine("ЙОУ привеп!!");
-            repeatCount++;
-            Console.Write("Хочешь повторить? ");
-            string input = Console.ReadLine()?.Trim().ToLower();
-            repeatChoice = input.Length > 0 ? input[0] : 'n';
-        }
-        while (repeatChoice == 'д' || repeatChoice == 'y');
+            Console.WriteLine("ЙОУ привет!!");
 
-        Console.WriteLine("Программа завершена.");
-        Console.WriteLine($"Ты повторил {repeatCount - 1} раз(а).");
+            Console.Write("Повтор? (1 — да, 0 — нет) ");
+            string input = Console.ReadLine();
+
+            valid = int.TryParse(input, out choice)
+                    && (choice == 0 || choice == 1);
+
+            if (!valid)
+            {
+                Console.WriteLine("Нужно 1 - или 0 - нет");
+            }
+            else if (choice == 1)
+            {
+                count++;
+            }
+        }
+        while (!valid || choice == 1);
+
+        Console.WriteLine("Конец..");
+        Console.WriteLine($"Повторов: {count}");
     }
 }
 */
