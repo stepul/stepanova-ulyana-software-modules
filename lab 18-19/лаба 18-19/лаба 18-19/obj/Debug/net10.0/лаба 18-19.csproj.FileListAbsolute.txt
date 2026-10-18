@@ -1,0 +1,16 @@
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\bin\Debug\net10.0\лаба 18-19.exe
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\bin\Debug\net10.0\лаба 18-19.deps.json
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\bin\Debug\net10.0\лаба 18-19.runtimeconfig.json
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\bin\Debug\net10.0\лаба 18-19.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\bin\Debug\net10.0\лаба 18-19.pdb
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\лаба 18-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\лаба 18-19.AssemblyInfoInputs.cache
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\лаба 18-19.AssemblyInfo.cs
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\лаба 18-19.csproj.CoreCompileInputs.cache
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\лаба 18-19.sourcelink.json
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\лаба 18-19.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\refint\лаба 18-19.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\лаба 18-19.pdb
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\лаба 18-19.genruntimeconfig.cache
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\ref\лаба 18-19.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\lab 18-19\лаба 18-19\лаба 18-19\obj\Debug\net10.0\лаба 18-19.csproj.Up2Date
