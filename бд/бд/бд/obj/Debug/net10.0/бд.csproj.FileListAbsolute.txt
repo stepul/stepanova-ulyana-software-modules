@@ -1,0 +1,16 @@
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\bin\Debug\net10.0\бд.exe
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\bin\Debug\net10.0\бд.deps.json
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\bin\Debug\net10.0\бд.runtimeconfig.json
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\bin\Debug\net10.0\бд.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\bin\Debug\net10.0\бд.pdb
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\бд.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\бд.AssemblyInfoInputs.cache
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\бд.AssemblyInfo.cs
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\бд.csproj.CoreCompileInputs.cache
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\бд.sourcelink.json
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\бд.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\refint\бд.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\бд.pdb
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\бд.genruntimeconfig.cache
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\ref\бд.dll
+C:\Users\tetka\Documents\Git\stepanova-ulyana-software-modules\бд\бд\бд\obj\Debug\net10.0\бд.csproj.Up2Date
